@@ -18,6 +18,21 @@ Creating Table Using <kbd>HTML</kbd><br>
           <th>Course</th>
         </tr>
       </thead>
+     
+     <tbody>
+                <tr>
+                    <td>100</td>
+                    <td>Mohamed Ali</td>
+                    <td>Python</td>
+
+                </tr>
+                <tr>
+                    <td>101</td>
+                    <td>geedi farah</td>
+                    <td>C#</td>
+
+                </tr>
+            </tbody> 
    
   </body>
 </html>
