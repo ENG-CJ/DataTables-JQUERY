@@ -104,6 +104,6 @@ To Load The Data from file or api use <kbd>AJAX</kbd>
 This is How to Make <kbd>DataTable()</kbd>
 
 ## More Info
-for more information visit dataTables.net 👇
+for more information visit dataTables.net 👇<br>
 https://datatables.net/
 
