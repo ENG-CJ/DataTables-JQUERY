@@ -67,3 +67,38 @@ $(document).ready(()=>{
 });
 
 ```
+
+
+## Using Json Or API
+To Convert HTML Table Into dataTable using <kbd>JSON</kbd> or <kbd> API</kbd><br>
+the data may be json or fetch from api use this syntax<br>
+
+```javascript
+ 
+  $(document).ready(()=>{
+      
+      $('#data').DataTable({
+        
+        // this object takes 2 argument one is ajax (where data comes from) and other is column
+        
+        // "ajax" : "./api/file_name.json" or "./folder/file_name.json"
+        
+        "ajax" : "./students/data.json",
+        "columns" : [
+            {"students" : "id"},
+            {"students" : "name"},
+            {"students" : "course"}
+          ]
+          
+   
+      });
+  });
+
+
+```
+<br>
+To Load The Data from file or api use <kbd>AJAX</kbd>
+<kbd>./students/data.json</kbd> stduents is the path_name where data.json is the file_name wh<br>
+<kbd>Columns</kbd> is the columns where <kbd>students</kbd> under the column is the identifier column from the json file <br>
+
+This is How to Make <kbd>DataTable()</kbd>
