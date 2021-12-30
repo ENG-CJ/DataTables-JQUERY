@@ -10,7 +10,7 @@ Creating Table Using <kbd>HTML</kbd><br>
   </head>
  <body>
 <!--     table-->
-    <table class="table">
+    <table class="table" id="data">
       <thead>
         <tr>
           <th>ID</th>
@@ -51,3 +51,19 @@ Copy this Link And Past To the HTML File<br>
 <br>
 Click Here To Download The JUQERY CDN<br>
 (https://code.jquery.com/)
+
+
+## Convert The Table Into DataTable
+Toggle The Table ID by Using JQUERY use This Syntax To Convert HTML table Into DataTable Make Sure You have JQUERY CDN<br>
+
+```jquery
+$(document).ready(()=>{
+    
+     // toggle table id
+     $('#data').DataTable()
+     
+     // them automatically converts
+
+});
+
+```
