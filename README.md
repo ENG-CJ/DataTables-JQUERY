@@ -38,3 +38,16 @@ Creating Table Using <kbd>HTML</kbd><br>
 </html>
 
 ```
+
+
+## Add DataTable CDN (Css File and JQUERY FILE) 
+Copy this Link And Past To the HTML File<br>
+```html
+ <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.11.3/css/jquery.dataTables.css">
+ <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.11.3/js/jquery.dataTables.js"></script>
+
+```
+
+<br>
+Click Here To Download The JUQERY CDN<>
+[Download Here](https://code.jquery.com/)
