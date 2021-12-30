@@ -98,7 +98,12 @@ the data may be json or fetch from api use this syntax<br>
 ```
 <br>
 To Load The Data from file or api use <kbd>AJAX</kbd>
-<kbd>./students/data.json</kbd> stduents is the path_name where data.json is the file_name wh<br>
-<kbd>Columns</kbd> is the columns where <kbd>students</kbd> under the column is the identifier column from the json file <br>
+<kbd>./students/data.json</kbd> stduents is the path_name where data.json is the file_name <br>
+<kbd>Columns</kbd> is the columns of the table  where <kbd>students</kbd> under the column is the identifier column from the json file <br>
 
 This is How to Make <kbd>DataTable()</kbd>
+
+## More Info
+for more information visit dataTables.net 👇
+https://datatables.net/
+
