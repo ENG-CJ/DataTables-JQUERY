@@ -56,7 +56,7 @@ Click Here To Download The JUQERY CDN<br>
 ## Convert The Table Into DataTable
 Toggle The Table ID by Using JQUERY use This Syntax To Convert HTML table Into DataTable Make Sure You have JQUERY CDN<br>
 
-```jquery
+```javascript
 $(document).ready(()=>{
     
      // toggle table id
