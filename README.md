@@ -50,4 +50,4 @@ Copy this Link And Past To the HTML File<br>
 
 <br>
 Click Here To Download The JUQERY CDN<br>
-![Download Here](https://code.jquery.com/)
+(https://code.jquery.com/)
